@@ -9,7 +9,7 @@
     This project was built using:
       * Python – for data handling and backend logic
       * Pandas – for data manipulation and analysis
-      * MySQL – to query the dataset
+      * MySQL –  to query the dataset
       * Streamlit – for building an interactive web interface
 **Tools used**
      Installed:-
